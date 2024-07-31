@@ -1,6 +1,6 @@
 module github.com/ssouthcity/clisweeper
 
-go 1.22.3
+go 1.22
 
 require (
 	github.com/charmbracelet/bubbletea v0.26.6 // indirect
