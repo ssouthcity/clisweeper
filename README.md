@@ -1,4 +1,4 @@
-![Code Quality](https://github.com/ssouthcity/clisweeper/actions/workflows/code-quality.yml/badge.svg)
+![Code Quality](https://github.com/ssouthcity/clisweeper/actions/workflows/unit-tests.yml/badge.svg)
 
 # clisweeper
 
